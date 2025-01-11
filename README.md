@@ -1,0 +1,2 @@
+# belajarpython
+just have fun
